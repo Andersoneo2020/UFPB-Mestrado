@@ -1,0 +1,10 @@
+/*-----------------------------------
+Andersoneo 21-jan-2020
+Exemplo de array 2D - que irá representar o problema do caxeiro viajante - TSP.
+Esta é minha 2a versão - 
+É preciso informar o número de cidades;
+Em seguida suas respectivas distâncias simétricas - somente parte da matriz,
+o eixo da diagonal de zeros e a outra face são calculados e gerados;
+Depois, informe a cidade de origem e será calculado a distancia total,
+considerando o vizinho mais próximo.
+-------------------------------------
